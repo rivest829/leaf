@@ -1,4 +1,4 @@
-module leaf
+module github.com/rivest829/leaf
 
 go 1.18
 

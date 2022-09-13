@@ -6,27 +6,8 @@ github.com/golang/protobuf/proto
 github.com/gorilla/websocket
 # github.com/name5566/leaf v0.0.0-20200516012428-8592b1abbbbe
 ## explicit
-github.com/name5566/leaf/chanrpc
-github.com/name5566/leaf/conf
-github.com/name5566/leaf/console
-github.com/name5566/leaf/go
-github.com/name5566/leaf/log
-github.com/name5566/leaf/network
-github.com/name5566/leaf/timer
 # github.com/rivest829/leaf v0.0.0-20200516012428-8592b1abbbbe
-## explicit
-github.com/rivest829/leaf/chanrpc
-github.com/rivest829/leaf/cluster
-github.com/rivest829/leaf/conf
-github.com/rivest829/leaf/console
-github.com/rivest829/leaf/db/mongodb
-github.com/rivest829/leaf/go
-github.com/rivest829/leaf/log
-github.com/rivest829/leaf/module
-github.com/rivest829/leaf/network
-github.com/rivest829/leaf/recordfile
-github.com/rivest829/leaf/timer
-github.com/rivest829/leaf/util
+## explicit; go 1.18
 # google.golang.org/protobuf v1.26.0
 ## explicit; go 1.9
 google.golang.org/protobuf/encoding/prototext
