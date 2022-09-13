@@ -1,11 +1,11 @@
 package leaf
 
 import (
-	"github.com/name5566/leaf/cluster"
-	"github.com/name5566/leaf/conf"
-	"github.com/name5566/leaf/console"
-	"github.com/name5566/leaf/log"
-	"github.com/name5566/leaf/module"
+	"github.com/rivest829/leaf/cluster"
+	"github.com/rivest829/leaf/conf"
+	"github.com/rivest829/leaf/console"
+	"github.com/rivest829/leaf/log"
+	"github.com/rivest829/leaf/module"
 	"os"
 	"os/signal"
 )
